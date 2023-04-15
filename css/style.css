@@ -1,0 +1,68 @@
+header{
+    width: 400px;
+    height: 450px;
+    background-color: #70d498;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+    color:#fff;
+    border: solid 2px #70d498;
+    border-radius: 30px;
+    position: relative;
+}
+#div1{
+    width: 130px;
+    height: 130px;
+    background-color: #fff;
+    margin: auto;
+    border: solid 2px #fff;
+    border-radius: 12px;
+}
+header i{
+position:absolute;
+top: 3%;
+right: 5%;
+cursor: pointer;
+}
+button{
+    background-color: #fff;
+    margin-bottom: 20px;
+    width: 400px;
+    border: solid #fff 2px;
+    border-radius: 8px;
+    height: 25px;
+    cursor: pointer;
+}
+#button1{
+    color: red;
+    
+}
+#button2{
+    color: blue;
+}
+#button3{
+    color: green;
+}
+#button4{
+    color: rgb(150, 150, 48);
+}
+.child{
+    display: flex;
+    justify-content: center;
+}
+#button6{
+    width: 100px;
+    height: 35px;
+    background-color: black;
+    color:#fff;
+    border: solid #000 2px;
+    border-radius: 8px;
+}
+input{
+    width: 150px;
+    height: 30px;
+    border: solid #fff 2px;
+    border-radius: 8px;
+    margin-right: 25px;
+   
+}
